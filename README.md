@@ -95,8 +95,8 @@ The prepared dataset was subsequently analyzed using **PostgreSQL and SQL** and 
     ## 6. 📊 Screenshots
 
     ![Executive Overview]
-     (./page%201.png)
-  
+    (https://github.com/akashkumar28-cloud/wine_market_analysis/blob/main/page%201.png)
+
     ![Price vs Rating]
     (https://github.com/akashkumar28-cloud/wine_market_analysis/blob/main/page%202.png)
   
