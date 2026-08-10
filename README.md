@@ -85,12 +85,12 @@ The prepared dataset was subsequently analyzed using **PostgreSQL and SQL** and 
 
     ### 💼 Business Impact & Insights
 
-     **Consumer Decision Making:** Identify highly rated wines at affordable prices.
-     **Pricing Strategy:** Evaluate whether wine prices are supported by ratings.
-     **Winery Performance:** Compare wineries based on quality, price, and value.
-     **Market Analysis:** Compare wine markets across countries and regions.
-     **Premium Market Strategy:** Identify opportunities in Premium and Luxury segments.
-     **Value Identification:** Find wines offering strong value for money.
+    - **Consumer Decision Making:** Identify highly rated wines at affordable prices.
+    - **Pricing Strategy:** Evaluate whether wine prices are supported by ratings.
+    - **Winery Performance:** Compare wineries based on quality, price, and value.
+    - **Market Analysis:** Compare wine markets across countries and regions.
+    - **Premium Market Strategy:** Identify opportunities in Premium and Luxury segments.
+    - **Value Identification:** Find wines offering strong value for money.
 
     ## 6. 📊 Screenshots
 
