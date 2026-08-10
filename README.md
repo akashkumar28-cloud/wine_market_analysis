@@ -96,7 +96,7 @@ The prepared dataset was subsequently analyzed using **PostgreSQL and SQL** and 
 
    # Executive Overview: https://github.com/akashkumar28-cloud/wine_market_analysis/blob/main/page%201.png
    # Price vs Rating: https://github.com/akashkumar28-cloud/wine_market_analysis/blob/main/page%202.png
-   # Regional Analysis: 
+   # Regional Analysis: https://github.com/akashkumar28-cloud/wine_market_analysis/blob/main/page%203.png
    # Variety Analysis: 
    # Value Analysis: 
  
