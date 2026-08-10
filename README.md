@@ -1,7 +1,7 @@
 
 ## 🍷 Wine Market Analysis
 
-## 1. Project Title 
+# 1. Project Title 
 # 🍷 Wine Market Analysis: Global Wine Insights Dashboard
 
   An interactive Power BI dashboard designed to analyze global wine markets, pricing, ratings, wine varieties, countries, wineries, and value-for-money              opportunities.
