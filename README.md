@@ -1,8 +1,8 @@
 
-## 🍷 Wine Market Analysis
+# 🍷 Wine Market Analysis
 
-# 1. Project Title 
-# 🍷 Wine Market Analysis: Global Wine Insights Dashboard
+## 1. Project Title 
+### 🍷 Wine Market Analysis: Global Wine Insights Dashboard
 
   An interactive Power BI dashboard designed to analyze global wine markets, pricing, ratings, wine varieties, countries, wineries, and value-for-money              opportunities.
 
@@ -11,8 +11,8 @@
    The Wine Market Analysis Dashboard provides data-driven insights into global wine pricing, ratings, varieties, countries, and wineries. It helps identify          market trends, premium and luxury wine segments, highly rated wines, and value-for-money opportunities using SQL, Power BI, and DAX.
 
   ## 3. Tech Stack
-   # 🛠️ Technologies & Tools
-   # The project was developed using the following tools and technologies:
+   ### 🛠️ Technologies & Tools
+   #### The project was developed using the following tools and technologies:
 
 * 📗 Microsoft Excel – Used for initial data cleaning, missing-value treatment, duplicate removal, and data preparation.
 * 🐘 PostgreSQL – Used to store and manage the cleaned wine dataset.
@@ -38,13 +38,13 @@ The prepared dataset was subsequently analyzed using **PostgreSQL and SQL** and 
 
   ## 5. 📊 Features / Highlights
 
-  ## 🔴 Business Problem
+  #### 🔴 Business Problem
 
    The global wine market contains extensive information about wine prices ratings, wineries, grape varieties, countries, and regions. However, raw datasets make     it difficult to quickly identify market trends, compare wine quality and pricing, and determine which wines provide the best value.
 
    This project transforms the raw wine dataset into an interactive analytical solution that helps answer key business questions around pricing, quality, market      performance, and value.
 
-   ## 🎯 Goal of the Dashboard
+   #### 🎯 Goal of the Dashboard
 
   The dashboard is designed to:
 
@@ -57,33 +57,33 @@ The prepared dataset was subsequently analyzed using **PostgreSQL and SQL** and 
 * Identify potential overpriced and underpriced wines.
 * Support data-driven wine market decisions.
 
-   ## 📊 Walkthrough of Key Visuals
+   #### 📊 Walkthrough of Key Visuals
 
-    # 📌 KPI Cards
+    #### 📌 KPI Cards
      Provides a high-level overview of total wines, average price, average rating, countries, wineries, varieties.
 
-    # 🌎 Country Analysis
+    #### 🌎 Country Analysis
      Compares wine production, average price, average rating, and Value Score across countries.
 
-    # 🏭 Winery Analysis
+    #### 🏭 Winery Analysis
      Identifies top-performing wineries based on ratings, pricing, and value.
 
-    # 🍇 Variety Analysis
+    #### 🍇 Variety Analysis
      Highlights highly rated grape varieties and varieties offering strong quality-to-price performance.
 
-    # 💰 Price Analysis
+    #### 💰 Price Analysis
      Segments wines into Budget, Mid-Range, Premium, and Luxury categories to analyze pricing patterns.
 
-    # ⭐ Rating Analysis
+    #### ⭐ Rating Analysis
      Compares wine quality across countries, wineries, varieties, and price category.
 
-    # 💡 Value Analysis
+    #### 💡 Value Analysis
      Uses Value Score to identify wines that provide relatively high ratings compared with their prices.
 
-    # 🚨 Price-Rating Outlier Analysis
+    #### 🚨 Price-Rating Outlier Analysis
      Highlights potentially overpriced wines (high price + low rating) and potentially underpriced/value wines (low price + high rating).
 
-    ## 💼 Business Impact & Insights
+    ### 💼 Business Impact & Insights
 
      **Consumer Decision Making:** Identify highly rated wines at affordable prices.
      **Pricing Strategy:** Evaluate whether wine prices are supported by ratings.
