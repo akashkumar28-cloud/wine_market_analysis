@@ -11,7 +11,7 @@
    The Wine Market Analysis Dashboard provides data-driven insights into global wine pricing, ratings, varieties, countries, and wineries. It helps identify          market trends, premium and luxury wine segments, highly rated wines, and value-for-money opportunities using SQL, Power BI, and DAX.
 
   ## 3. Tech Stack
-   ### 🛠️ Technologies & Tools
+    🛠️ Technologies & Tools
    #### The project was developed using the following tools and technologies:
 
 * 📗 Microsoft Excel – Used for initial data cleaning, missing-value treatment, duplicate removal, and data preparation.
