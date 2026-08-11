@@ -52,7 +52,7 @@
   * Compare Budget, Mid-Range, Premium, and Luxury segments.
   * Identify opportunities to improve product positioning and portfolio strategy.
     
-   This project transforms the raw wine dataset into an interactive analytical solution that helps answer key business questions around pricing, quality, market      performance, and value.
+   This project transforms the raw wine dataset into an interactive analytical solution that helps answer key business questions around pricing, quality, market      performance, and value.**The key business questions are:**
 
  ## Does higher price guarantee better quality?
 
@@ -67,7 +67,7 @@ Mid-Range	             $32.10	                      88.91
 
    So, more expensive wines tend to receive higher ratings on average, but the relationship is not strong enough to say that price guarantees quality.
 
-  ## Which countries and regions produce the highest-rated wines?
+  ## Which countries produce the highest-rated wines?
   
   Austria is the strongest high-volume country, while several premium wine regions achieve exceptionally high ratings. Among countries with a meaningful number of   wines in the dataset, Austria has the highest average rating at approximately 90.10, followed by Germany at 89.85, Canada at 89.37, and Hungary at 89.19.
 
@@ -91,6 +91,8 @@ Mid-Range	             $32.10	                      88.91
     **Mid-Range      	   63,856	       $32.10	      88.91	           2.98**
      Premium	           16,408	       $69.02	      91.05	           1.36
       Luxury	            3,366	       $184.82	    92.82	           0.75
+
+    Budget has the highest mathematical Value Score, but its average rating is lower. Premium and Luxury have higher ratings but substantially higher prices and       lower Value Scores.
    #### 📊 Walkthrough of Key Visuals
 
     #### 📌 KPI Cards
