@@ -67,6 +67,18 @@ Mid-Range	             $32.10	                      88.91
 
    So, more expensive wines tend to receive higher ratings on average, but the relationship is not strong enough to say that price guarantees quality.
 
+  ## Which countries and regions produce the highest-rated wines?
+  
+  Austria is the strongest high-volume country, while several premium wine regions achieve exceptionally high ratings. Among countries with a meaningful number of   wines in the dataset, Austria has the highest average rating at approximately 90.10, followed by Germany at 89.85, Canada at 89.37, and Hungary at 89.19.
+
+   ## Which wines appear overpriced or underpriced based on their price and rating?
+
+   Yes. The analysis identifies both potential overpriced and underpriced wines. Using the median price of $25 and median rating of 88 points as benchmarks,          11,790 wines are classified as potentially overpriced, while 12,760 are identified as potentially underpriced/high-value opportunities. This highlights            meaningful pricing inefficiencies within the market.
+   So approximately:
+
+ * 9.1% are potentially overpriced.
+ * 9.8% are potentially underpriced/high-value.
+ * 81.1% fall into the normal category.
    #### 📊 Walkthrough of Key Visuals
 
     #### 📌 KPI Cards
