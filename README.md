@@ -27,6 +27,7 @@
   ## 4.  Data Source: GV Cloud Secure (Internship Project)
 
    The dataset was provided during my internship at GV Cloud Secure and contains wine-level information covering wines from multiple countries, wineries,             varieties, regions, prices, and ratings. The dataset includes attributes such as country, winery, variety, province, region, designation, price, points, title.    The data was cleaned and transformed to handle missing values, remove duplicates, standardize categorical fields, and create analytical fields such as **Price     Category, Rating Category, and Value Score**. The prepared dataset was subsequently analyzed using **PostgreSQL and SQL** and visualized through an                interactive **Power BI dashboard**.
+   
    **Note:** The original dataset was provided as part of an internship project and is not publicly included in this repository due to data confidentiality.
 
   ## 5. Highlights
