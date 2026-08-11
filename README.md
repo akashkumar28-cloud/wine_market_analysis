@@ -71,12 +71,6 @@ Mid-Range	             $32.10	                      88.91
   
   Austria is the strongest high-volume country, while several premium wine regions achieve exceptionally high ratings. Among countries with a meaningful number of   wines in the dataset, Austria has the highest average rating at approximately 90.10, followed by Germany at 89.85, Canada at 89.37, and Hungary at 89.19.
 
-  ## Which wine varieties offer the best value for money?
-
- After applying a minimum threshold of **100 wines per variety, Torrontés, Viura, Verdejo, Bonarda, and Portuguese White** emerge as the strongest quality-to-      price performers. **Torrontés records the highest Value Score of 6.14, while Portuguese White and Pinot Grigio** provide particularly reliable value signals due   to their large sample sizes.
-
- Overall, these varieties combine relatively affordable prices with good average ratings, making them attractive quality-to-price opportunities.
-
    ## Which wines appear overpriced or underpriced based on their price and rating?
 
    Yes. The analysis identifies both potential overpriced and underpriced wines. Using the median price of $25 and median rating of 88 points as benchmarks,          11,790 wines are classified as potentially overpriced, while 12,760 are identified as potentially underpriced/high-value opportunities. This highlights            meaningful pricing inefficiencies within the market.
