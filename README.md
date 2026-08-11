@@ -61,9 +61,13 @@
    The average rating does increase across price segments:
 
 Price Segment     	 Avg. Price	                Avg. Rating
+
   Budget	             $15.07	                      86.58
+  
 Mid-Range	             $32.10	                      88.91
+
  Premium	             $69.02	                      91.05
+ 
   Luxury	             $184.82	                    92.82
 
    So, more expensive wines tend to receive higher ratings on average, but the relationship is not strong enough to say that price guarantees quality.
@@ -78,7 +82,9 @@ Mid-Range	             $32.10	                      88.91
    So approximately:
 
  * 9.1% are potentially overpriced.
+ * 
  * 9.8% are potentially underpriced/high-value.
+ * 
  * 81.1% fall into the normal category.
 
   ## Which price segment offers the best balance of quality, affordability, and value?
@@ -88,9 +94,13 @@ Mid-Range	             $32.10	                      88.91
    The actual segment results are:
 
    Price Segment	       Wines	     Avg. Price	  Avg. Rating	  Avg. Value Score
+   
       Budget	           46,341	       $15.07	      86.58	           6.16
-    **Mid-Range      	   63,856	       $32.10	      88.91	           2.98**
+      
+   **Mid-Range      	   63,856	       $32.10	      88.91	           2.98**
+    
      Premium	           16,408	       $69.02	      91.05	           1.36
+     
       Luxury	            3,366	       $184.82	    92.82	           0.75
 
     Budget has the highest mathematical Value Score, but its average rating is lower. Premium and Luxury have higher ratings but substantially higher prices and       lower Value Scores.
