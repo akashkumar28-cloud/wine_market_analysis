@@ -8,7 +8,7 @@
 
  ## 2. Short Description 
  
-   The Wine Market Analysis Dashboard provides data-driven insights into global wine pricing, ratings, varieties, countries, and wineries. It helps identify          market trends, premium and luxury wine segments, highly rated wines, and value-for-money opportunities using SQL, Power BI, and DAX.
+   The Wine Market Analysis Dashboard is a visually engaging and analytical Power BI report designed to help users explore and compare over 130K wines across 44      countries and 708 varieties. The dashboard focuses on highlighting data-driven insights into global wine pricing, ratings, varieties, countries, and wineries.     It helps identify market trends, premium and luxury wine segments, highly rated wines, and value-for-money opportunities and data-driven strategists who seek      to understand trends and characteristics of wine market globally.
 
   ## 3. Tech Stack
   #  🛠️ Technologies & Tools
@@ -26,17 +26,10 @@
 
   ## 4. 📂 Data Source: GV Cloud Secure (Internship Project)
 
-The dataset was provided during my internship at GV Cloud Secure and contains wine-level information covering wines from multiple countries, wineries, varieties, regions, prices, and ratings.
+   The dataset was provided during my internship at GV Cloud Secure and contains wine-level information covering wines from multiple countries, wineries,             varieties, regions, prices, and ratings. The dataset includes attributes such as country, winery, variety, province, region, designation, price, points, title.    The data was cleaned and transformed to handle missing values, remove duplicates, standardize categorical fields, and create analytical fields such as **Price     Category, Rating Category, and Value Score**. The prepared dataset was subsequently analyzed using **PostgreSQL and SQL** and visualized through an                interactive **Power BI dashboard**.
+   **Note:** The original dataset was provided as part of an internship project and is not publicly included in this repository due to data confidentiality.
 
-The dataset includes attributes such as country, winery, variety, province, region, designation, price, points, title.
-
-The data was cleaned and transformed to handle missing values, remove duplicates, standardize categorical fields, and create analytical fields such as **Price Category, Rating Category, and Value Score**.
-
-The prepared dataset was subsequently analyzed using **PostgreSQL and SQL** and visualized through an interactive **Power BI dashboard**.
-
-**Note:** The original dataset was provided as part of an internship project and is not publicly included in this repository due to data confidentiality.
-
-  ## 5. 📊 Features / Highlights
+  ## 5. 📊 Highlights
 
   #### 🔴 Business Problem
 
