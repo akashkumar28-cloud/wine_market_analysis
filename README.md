@@ -185,7 +185,7 @@ Budget has the highest mathematical Value Score, but its average rating is lower
 ## Key Visuals
 
  ## Top Varieties by Average Rating
-    Identifies varieties with the highest average ratings.
+  Identifies varieties with the highest average ratings.
 
 ## Top Varieties by Average Price
    Shows varieties commanding higher average prices.
