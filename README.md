@@ -288,20 +288,32 @@ The analysis identifies:
 
  ## 6. Screenshots
 
-   ### Executive Overview
-  ![Executive Overview](./page%201.png)
+## 1. Executive Summary
 
-   ### Price vs Rating
-  ![Price vs Rating](./page%202.png)
+![Wine Market Analysis - Executive Summary](./Executive%20Summary.png)
 
-  ### Regional Analysis
-  ![Regional Analysis](./page%203.png)
+---
 
-  ### Variety Analysis
-  ![Variety Analysis](./page%204.png)
+## 2. Price-Rating Relationship
 
-   ### Value Analysis
-  ![Value Analysis](./page%205.png)
-    
+![Wine Market Analysis - Price Rating Relationship](./Price-Rating%20Relation.png)
+
+---
+
+## 3. Regional Analysis
+
+![Wine Market Analysis - Regional Analysis](./Regional%20Analysis.png)
+
+---
+
+## 4. Value Analysis
+
+![Wine Market Analysis - Value Analysis](./Value%20Analysis.png)
+
+---
+
+## 5. Variety Analysis
+
+![Wine Market Analysis - Variety Analysis](./Variety%20Analysis.png)
 
   
