@@ -54,18 +54,18 @@
     
    This project transforms the raw wine dataset into an interactive analytical solution that helps answer key business questions around pricing, quality, market      performance, and value.
 
-   #### 🎯 Goal of the Dashboard
+ ## Does higher price guarantee better quality?
 
-  The dashboard is designed to:
+   Higher price does not guarantee better quality. The analysis shows a moderate positive relationship between price and rating (correlation ≈ 0.40). Although        Luxury wines have the highest average rating, moderately priced wines can also achieve strong ratings, demonstrating that price alone is not a reliable            indicator of wine quality.
+   The average rating does increase across price segments:
 
-* Analyze wine markets across countries and regions.
-* Compare wine prices and ratings.
-* Evaluate winery and variety performance.
-* Identify Premium and Luxury wine segments.
-* Discover highly rated and affordable wines.
-* Analyze the relationship between price and quality.
-* Identify potential overpriced and underpriced wines.
-* Support data-driven wine market decisions.
+Price Segment     	 Avg. Price	                Avg. Rating
+  Budget	             $15.07	                      86.58
+Mid-Range	             $32.10	                      88.91
+ Premium	             $69.02	                      91.05
+  Luxury	             $184.82	                    92.82
+
+   So, more expensive wines tend to receive higher ratings on average, but the relationship is not strong enough to say that price guarantees quality.
 
    #### 📊 Walkthrough of Key Visuals
 
