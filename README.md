@@ -286,22 +286,22 @@ The analysis identifies:
 
 
 
- ## 6. 📊 Screenshots
+ ##  Screenshots
 
    ### Executive Overview
-    ![Executive Overview](./page%201.png)
+  ![Executive Overview](./page%201.png)
 
    ### Price vs Rating
-    ![Price vs Rating](./page%202.png)
+  ![Price vs Rating](./page%202.png)
 
   ### Regional Analysis
-    ![Regional Analysis](./page%203.png)
+  ![Regional Analysis](./page%203.png)
 
   ### Variety Analysis
-    ![Variety Analysis](./page%204.png)
+  ![Variety Analysis](./page%204.png)
 
    ### Value Analysis
-    ![Value Analysis](./page%205.png)
+  ![Value Analysis](./page%205.png)
     
 
   
