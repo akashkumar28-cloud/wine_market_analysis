@@ -88,11 +88,12 @@
 
    The actual segment results are:
 
-   Price Segment	       Wines	     Avg. Price	  Avg. Rating	  Avg. Value Score   
-      Budget	           46,341	       $15.07	      86.58	           6.16      
-   **Mid-Range      	   63,856	       $32.10	      88.91	           2.98**    
-     Premium	           16,408	       $69.02	      91.05	           1.36     
-      Luxury	            3,366	       $184.82	    92.82	           0.75
+  | Price Segment | Total Wines | Average Price | Average Rating | Average Value Score |
+  |---|---:|---:|---:|---:|
+  | Budget | 46,341 | $15.07 | 86.58 | 6.16 |     
+  | **Mid-Range | 63,856 | $32.10 | 88.91 | 2.98** |    
+  | Premium	| 16,408 | $69.02	| 91.05	| 1.36 |    
+  | Luxury | 3,366 | $184.82 | 92.82 | 0.75 |
 
 Budget has the highest mathematical Value Score, but its average rating is lower. Premium and Luxury have higher ratings but substantially higher prices and       lower Value Scores.
     
