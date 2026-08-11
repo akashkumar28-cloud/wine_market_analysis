@@ -11,25 +11,25 @@
    The Wine Market Analysis Dashboard is a visually engaging and analytical Power BI report designed to help users explore and compare over 130K wines across 44      countries and 708 varieties. The dashboard focuses on highlighting data-driven insights into global wine pricing, ratings, varieties, countries, and wineries.     It helps identify market trends, premium and luxury wine segments, highly rated wines, and value-for-money opportunities and data-driven strategists who seek      to understand trends and characteristics of wine market globally.
 
   ## 3. Tech Stack
-  #  🛠️ Technologies & Tools
+  #   Technologies & Tools
    #### The project was developed using the following tools and technologies:
 
-* 📗 Microsoft Excel – Used for initial data cleaning, missing-value treatment, duplicate removal, and data preparation.
-* 🐘 PostgreSQL – Used to store and manage the cleaned wine dataset.
-* 🗄️ SQL – Used for data exploration, business analysis, aggregations, filtering, sorting, and deriving analytical insights.
-* 🔄 Power Query – Used for data transformation, cleaning, and preparation within Power BI.
-* 📊 Power BI Desktop – Used to create interactive dashboards and visualizations.
-* 🧮 DAX (Data Analysis Expressions) – Used to create calculated measures, calculated columns, KPIs, price segments, rating categories, and value analysis.
-* 📈 Data Visualization – Used charts, cards, slicers, maps, tables, and other visuals to communicate insights.
-* 📁 File Format – .pbix for development and .png for dashboard previews.
-* 🐙 Git & GitHub – Used for project version control, documentation, and portfolio presentation.
+*  Microsoft Excel – Used for initial data cleaning, missing-value treatment, duplicate removal, and data preparation.
+*  PostgreSQL – Used to store and manage the cleaned wine dataset.
+*  SQL – Used for data exploration, business analysis, aggregations, filtering, sorting, and deriving analytical insights.
+*  Power Query – Used for data transformation, cleaning, and preparation within Power BI.
+*  Power BI Desktop – Used to create interactive dashboards and visualizations.
+*  DAX (Data Analysis Expressions) – Used to create calculated measures, calculated columns, KPIs, price segments, rating categories, and value analysis.
+*  Data Visualization – Used charts, cards, slicers, maps, tables, and other visuals to communicate insights.
+*  File Format – .pbix for development and .png for dashboard previews.
+*  Git & GitHub – Used for project version control, documentation, and portfolio presentation.
 
-  ## 4. 📂 Data Source: GV Cloud Secure (Internship Project)
+  ## 4.  Data Source: GV Cloud Secure (Internship Project)
 
    The dataset was provided during my internship at GV Cloud Secure and contains wine-level information covering wines from multiple countries, wineries,             varieties, regions, prices, and ratings. The dataset includes attributes such as country, winery, variety, province, region, designation, price, points, title.    The data was cleaned and transformed to handle missing values, remove duplicates, standardize categorical fields, and create analytical fields such as **Price     Category, Rating Category, and Value Score**. The prepared dataset was subsequently analyzed using **PostgreSQL and SQL** and visualized through an                interactive **Power BI dashboard**.
    **Note:** The original dataset was provided as part of an internship project and is not publicly included in this repository due to data confidentiality.
 
-  ## 5. 📊 Highlights
+  ## 5. Highlights
 
   ####  Business Problem
 
@@ -93,31 +93,157 @@ Mid-Range	             $32.10	                      88.91
       Luxury	            3,366	       $184.82	    92.82	           0.75
 
     Budget has the highest mathematical Value Score, but its average rating is lower. Premium and Luxury have higher ratings but substantially higher prices and       lower Value Scores.
-   #### 📊 Walkthrough of Key Visuals
+  #  Walkthrough of Key Visuals
 
-    #### 📌 KPI Cards
+  # Executive Summary
+     The Executive Summary provides a high-level overview of the wine market.
+
+  ##  KPI Cards
      Provides a high-level overview of total wines, average price, average rating, countries, wineries, varieties.
 
-    #### 🌎 Country Analysis
-     Compares wine production, average price, average rating, and Value Score across countries.
+  ## Key Visuals
+  
+  ## Wines by Country
+    Shows the distribution of wines across different countries and identifies the major wine-producing markets represented in the dataset.
 
-    #### 🏭 Winery Analysis
-     Identifies top-performing wineries based on ratings, pricing, and value.
+  ## Wines by Price Category
+    Compares the number of wines across:
+    Budget
+    Mid-Range
+    Premium
+    Luxury
 
-    #### 🍇 Variety Analysis
-     Highlights highly rated grape varieties and varieties offering strong quality-to-price performance.
+    This provides an overview of the market's price structure.
 
-    #### 💰 Price Analysis
-     Segments wines into Budget, Mid-Range, Premium, and Luxury categories to analyze pricing patterns.
+## Business purpose
+  The Executive Summary gives decision-makers a quick understanding of the overall size, pricing structure, and quality profile of the wine market.
 
-    #### ⭐ Rating Analysis
-     Compares wine quality across countries, wineries, varieties, and price category.
+# Price vs Rating
+   This page investigates one of the most important business questions:
+   Does higher price guarantee better quality?
 
-    #### 💡 Value Analysis
-     Uses Value Score to identify wines that provide relatively high ratings compared with their prices.
+## Key Visuals
 
-    #### 🚨 Price-Rating Outlier Analysis
-     Highlights potentially overpriced wines (high price + low rating) and potentially underpriced/value wines (low price + high rating).
+## Price vs Rating
+   The scatter plot compares wine price against rating and helps identify the relationship between price and perceived quality.
+   The analysis shows a moderate positive relationship, with a price-rating correlation of approximately 0.40.
+
+## Average Rating by Price Segment
+   Compares average ratings across:
+   Budget — 86.58
+   Mid-Range — 88.91
+   Premium — 91.05
+   Luxury — 92.82
+   This shows that average quality tends to increase with price, but the relationship is not strong enough to conclude that price guarantees quality.
+
+## Average Price by Price Category
+   Shows how dramatically the average price increases across segments.
+   For example:
+   Budget: $15.07
+   Mid-Range: $32.10
+   Premium: $69.02
+   Luxury: $184.82
+   
+## Price per Rating Point
+   This helps evaluate how much consumers are paying relative to the rating received.
+
+## Business insight
+   Higher-priced wines generally receive higher ratings, but price alone does not guarantee quality. The moderate correlation of approximately 0.40 indicates that    other factors also influence wine ratings.
+
+# Regional Analysis
+   The Regional Analysis page evaluates wine performance geographically.
+
+## Key Visuals
+
+## Average Rating by Country
+   Compares average wine ratings across countries.
+   Austria is one of the strongest major-country performers, with an average rating of approximately 90.10.
+
+## Average Price by Country
+   Shows differences in average wine prices across countries.
+   This helps identify countries positioned toward higher-priced or more affordable wine markets.
+
+## Average Rating by Top Regions
+   Highlights regions producing highly rated wines.
+
+## Business insight
+   The analysis reveals significant geographic differences in wine quality. Austria performs strongly among major countries, while several specialized regions        achieve average ratings around 96 points or higher, highlighting potential premium wine-producing markets.
+
+# Variety Analysis
+  The Variety Analysis page evaluates wine performance at the top-variety level.
+
+## Key Visuals
+
+ ## Top Varieties by Average Rating
+    Identifies varieties with the highest average ratings.
+
+## Top Varieties by Average Price
+   Shows varieties commanding higher average prices.
+   This can indicate varieties associated with premium positioning.
+
+## Top Varieties by Number of Wines
+   Shows which varieties have the largest representation in the dataset.
+   This provides context around market presence.
+
+## Best Value Varieties
+   This is one of the most important visuals.
+
+The analysis uses:
+
+Value Score = Average Rating ÷ Average Price
+
+To make the comparison more reliable, you have applied a minimum threshold of 100 wines per variety.
+
+The leading value performers include:
+
+Torrontés — Value Score 6.14
+Viura — 5.51
+Verdejo — 5.30
+Bonarda — 5.20
+Portuguese White — 5.18
+Business insight
+
+Among varieties with at least 100 wines, Torrontés provides the highest quality-to-price value, followed by Viura, Verdejo, Bonarda, and Portuguese White. Portuguese White and Pinot Grigio are particularly interesting because their value performance is supported by large numbers of wines.
+
+This is much stronger than simply saying "Torrontés is the best" because you are considering sample size.
+
+# Value Analysis
+  The Value Analysis page focuses on identifying pricing opportunities and potential market inefficiencies.
+
+## Key Visuals
+
+ ## Top Wines by Value Score
+    Identifies individual wines with strong ratings relative to their prices.
+    This helps identify products that deliver high perceived quality at comparatively lower prices.
+
+## Average Value Score by Price Category
+   Compares the quality-to-price relationship across Budget, Mid-Range, Premium, and Luxury categories.
+   This helps demonstrate how value changes as wine prices increase.
+
+## Price vs Rating — Outlier Analysis
+   This visual identifies wines that deviate from expected price-quality relationships.
+   The classification uses the median benchmarks:
+   Median Price = $25
+   Median Rating = 88
+ **Potentially Overpriced**
+   Price > $25 + Rating < 88
+
+**Potentially Underpriced / High Value**
+  Price < $25 + Rating > 88
+
+**Normal**
+  Other combinations.
+
+The analysis identifies:
+11,790 potentially overpriced wines
+12,760 potentially underpriced/high-value wines
+105,421 normal wines
+
+## Business insight
+   Approximately 9.1% of wines are classified as potentially overpriced, while approximately 9.8% are identified as potential underpriced/high-value                  opportunities. This indicates meaningful price-quality mismatches within the market.
+ price, average rating, and Value Score across countries.
+
+    
 
     ### 💼 Business Impact & Insights
 
