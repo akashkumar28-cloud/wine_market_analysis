@@ -60,11 +60,12 @@
    Higher price does not guarantee better quality. The analysis shows a moderate positive relationship between price and rating (correlation ≈ 0.40). Although        Luxury wines have the highest average rating, moderately priced wines can also achieve strong ratings, demonstrating that price alone is not a reliable            indicator of wine quality.
    The average rating does increase across price segments:
 
-Price Segment     	 Avg. Price	                Avg. Rating
-  Budget	             $15.07	                      86.58  
-Mid-Range	             $32.10	                      88.91
- Premium	             $69.02	                      91.05 
-  Luxury	             $184.82	                    92.82
+|Price Segment|	| Avg. Price|	| Avg. Rating |
+|---|---:|---:|
+ | Budget	| |$15.07	|| 86.58 | 
+|Mid-Range|	            | $32.10 |	                    |  88.91|
+| Premium|	            | $69.02	|                     | 91.05| 
+  Luxury|	            | $184.82|	                   | 92.82|
 
    So, more expensive wines tend to receive higher ratings on average, but the relationship is not strong enough to say that price guarantees quality.
 
@@ -194,7 +195,7 @@ The analysis uses:
 
 Value Score = Average Rating ÷ Average Price
 
-To make the comparison more reliable, you have applied a minimum threshold of 100 wines per variety.
+To make the comparison more reliable, applied a minimum threshold of 100 wines per variety.
 
 The leading value performers include:
 
@@ -247,7 +248,7 @@ The analysis identifies:
   #  Business Impact & Insights
 
   ## Pricing Strategy
-  The Price vs Rating and Outlier Analysis can help businesses identify whether their products are appropriately priced relative to perceived quality.
+ The Price vs Rating and Outlier Analysis can help businesses identify whether their products are appropriately priced relative to perceived quality.
 
 ## Business impact:
    Helps identify potential overpricing and underpricing opportunities and supports more informed pricing decisions.
