@@ -94,6 +94,7 @@ Mid-Range	             $32.10	                      88.91
       Luxury	            3,366	       $184.82	    92.82	           0.75
 
     Budget has the highest mathematical Value Score, but its average rating is lower. Premium and Luxury have higher ratings but substantially higher prices and       lower Value Scores.
+    
   #  Walkthrough of Key Visuals
 
   # Executive Summary
