@@ -98,9 +98,11 @@ Mid-Range	             $32.10	                      88.91
   #  Walkthrough of Key Visuals
 
   # Executive Summary
+  
      The Executive Summary provides a high-level overview of the wine market.
 
   ##  KPI Cards
+  
      Provides a high-level overview of total wines, average price, average rating, countries, wineries, varieties.
 
   ## Key Visuals
