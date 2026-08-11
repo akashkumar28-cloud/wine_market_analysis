@@ -93,7 +93,7 @@ Mid-Range	             $32.10	                      88.91
      Premium	           16,408	       $69.02	      91.05	           1.36     
       Luxury	            3,366	       $184.82	    92.82	           0.75
 
-    Budget has the highest mathematical Value Score, but its average rating is lower. Premium and Luxury have higher ratings but substantially higher prices and       lower Value Scores.
+Budget has the highest mathematical Value Score, but its average rating is lower. Premium and Luxury have higher ratings but substantially higher prices and       lower Value Scores.
     
   #  Walkthrough of Key Visuals
 
@@ -101,22 +101,21 @@ Mid-Range	             $32.10	                      88.91
   The Executive Summary provides a high-level overview of the wine market.
 
   ##  KPI Cards
-  
-     Provides a high-level overview of total wines, average price, average rating, countries, wineries, varieties.
+  Provides a high-level overview of total wines, average price, average rating, countries, wineries, varieties.
 
   ## Key Visuals
   
   ## Wines by Country
-    Shows the distribution of wines across different countries and identifies the major wine-producing markets represented in the dataset.
+  Shows the distribution of wines across different countries and identifies the major wine-producing markets represented in the dataset.
 
   ## Wines by Price Category
-    Compares the number of wines across:
-    Budget
-    Mid-Range
-    Premium
-    Luxury
+  Compares the number of wines across:
+  Budget
+  Mid-Range
+  Premium
+  Luxury
 
-    This provides an overview of the market's price structure.
+  This provides an overview of the market's price structure.
 
 ## Business purpose
   The Executive Summary gives decision-makers a quick understanding of the overall size, pricing structure, and quality profile of the wine market.
