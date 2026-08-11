@@ -215,8 +215,8 @@ This is much stronger than simply saying "Torrontés is the best" because you ar
 ## Key Visuals
 
  ## Top Wines by Value Score
-    Identifies individual wines with strong ratings relative to their prices.
-    This helps identify products that deliver high perceived quality at comparatively lower prices.
+  Identifies individual wines with strong ratings relative to their prices.
+  This helps identify products that deliver high perceived quality at comparatively lower prices.
 
 ## Average Value Score by Price Category
    Compares the quality-to-price relationship across Budget, Mid-Range, Premium, and Luxury categories.
