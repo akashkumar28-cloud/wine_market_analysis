@@ -241,34 +241,64 @@ The analysis identifies:
 
 ## Business insight
    Approximately 9.1% of wines are classified as potentially overpriced, while approximately 9.8% are identified as potential underpriced/high-value                  opportunities. This indicates meaningful price-quality mismatches within the market.
- price, average rating, and Value Score across countries.
 
-    
+  #  Business Impact & Insights
 
-    ### 💼 Business Impact & Insights
+  ## Pricing Strategy
+     The Price vs Rating and Outlier Analysis can help businesses identify whether their products are appropriately priced relative to perceived quality.
 
-    * **Consumer Decision Making:** Identify highly rated wines at affordable prices.
-    * **Pricing Strategy:** Evaluate whether wine prices are supported by ratings.
-    * **Winery Performance:** Compare wineries based on quality, price, and value.
-    * **Market Analysis:** Compare wine markets across countries and regions.
-    * **Premium Market Strategy:** Identify opportunities in Premium and Luxury segments.
-    * **Value Identification:** Find wines offering strong value for money.
+## Business impact:
+   Helps identify potential overpricing and underpricing opportunities and supports more informed pricing decisions.
 
-    ## 6. 📊 Screenshots
+## Product Portfolio Optimization
+   The Variety Analysis identifies varieties that provide strong quality-to-price performance.
 
-    ### Executive Overview
+## Business impact:
+   Businesses can prioritize high-value varieties when developing or expanding product portfolios.
+
+## Regional Market Strategy
+   Regional Analysis highlights countries and regions associated with stronger wine ratings.
+
+## Business impact:
+   Businesses can identify high-performing wine-producing regions for sourcing, premium positioning, partnerships, or market expansion.
+
+## Segment Strategy
+   The analysis of Budget, Mid-Range, Premium, and Luxury categories helps businesses understand the trade-off between price and quality.
+
+## Business impact:
+   The Mid-Range segment's combination of large market presence, reasonable pricing, and strong ratings suggests an attractive opportunity for businesses             targeting quality-conscious but price-sensitive consumers.
+
+## Value-Based Product Positioning
+   The Value Score identifies wines that deliver relatively high ratings at lower prices.
+
+## Business impact:
+   These products can potentially be positioned as "high-quality value" offerings for consumers who seek quality without paying luxury-level prices.
+
+## Data-Driven Decision Making
+   Instead of relying on assumptions such as:
+   **"Expensive wine = better wine"**
+   the dashboard provides evidence based on 129,971 wines across countries, regions, wineries, varieties, prices, and ratings.
+
+## Business impact:
+   Enables stakeholders to make pricing, product, regional, and segment decisions using data rather than intuition alone.
+
+
+
+ ## 6. 📊 Screenshots
+
+   ### Executive Overview
     ![Executive Overview](./page%201.png)
 
-    ### Price vs Rating
+   ### Price vs Rating
     ![Price vs Rating](./page%202.png)
 
-    ### Regional Analysis
+  ### Regional Analysis
     ![Regional Analysis](./page%203.png)
 
-    ### Variety Analysis
+  ### Variety Analysis
     ![Variety Analysis](./page%204.png)
 
-    ### Value Analysis
+   ### Value Analysis
     ![Value Analysis](./page%205.png)
     
 
