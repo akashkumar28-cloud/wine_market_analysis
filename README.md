@@ -31,10 +31,27 @@
 
   ## 5. 📊 Highlights
 
-  #### 🔴 Business Problem
+  ####  Business Problem
 
-   The global wine market contains extensive information about wine prices ratings, wineries, grape varieties, countries, and regions. However, raw datasets make     it difficult to quickly identify market trends, compare wine quality and pricing, and determine which wines provide the best value.
+   The organization lacks clarity on the key factors influencing wine ratings and whether higher prices are justified by perceived quality. With a diverse wine       portfolio spanning multiple countries, regions, varieties, and price segments, it is difficult to identify which products and markets perform best and where       pricing opportunities exist.
 
+   The organization needs to understand the relationship between price and perceived quality, identify high-performing countries, regions, and varieties, evaluate    quality-to-price value, and detect potentially overpriced or underpriced products.
+
+   Without these insights, the organization may face inconsistent pricing strategies, inefficient product positioning, and missed opportunities to strengthen its     wine portfolio.
+
+ #### Goal of the Dashboard
+
+   The goal of the dashboard is to provide an interactive analytical solution that helps the organization evaluate wine quality, pricing, regional performance,       variety performance, and product value.
+
+ ##### The dashboard enables decision-makers to:
+
+  * Evaluate the relationship between price and wine ratings.
+  * Identify high-performing countries and regions.
+  * Discover high-value wine varieties.
+  * Detect potentially overpriced and underpriced products.
+  * Compare Budget, Mid-Range, Premium, and Luxury segments.
+  * Identify opportunities to improve product positioning and portfolio strategy.
+    
    This project transforms the raw wine dataset into an interactive analytical solution that helps answer key business questions around pricing, quality, market      performance, and value.
 
    #### 🎯 Goal of the Dashboard
