@@ -73,6 +73,12 @@
   
   Austria is the strongest high-volume country, while several premium wine regions achieve exceptionally high ratings. Among countries with a meaningful number of   wines in the dataset, Austria has the highest average rating at approximately 90.10, followed by Germany at 89.85, Canada at 89.37, and Hungary at 89.19.
 
+ ## Which wine varieties offer the best value for money?
+
+ Using the same Value Score concept 
+Value Score = Average Rating ÷ Average Price
+Among varieties with at least 100 wines, Torrontés, Viura, Verdejo, Bonarda, and Portuguese White provide the strongest quality-to-price value. Torrontés has the highest Value Score (6.14), while Portuguese White and Pinot Grigio provide particularly reliable value signals because they are supported by more than 1,000 wines each.
+
    ## Which wines appear overpriced or underpriced based on their price and rating?
 
    Yes. The analysis identifies both potential overpriced and underpriced wines. Using the median price of $25 and median rating of 88 points as benchmarks,          11,790 wines are classified as potentially overpriced, while 12,760 are identified as potentially underpriced/high-value opportunities. This highlights            meaningful pricing inefficiencies within the market.
@@ -99,7 +105,7 @@ Budget has the highest mathematical Value Score, but its average rating is lower
     
   #  Walkthrough of Key Visuals
 
-  # Executive Summary
+  # 1. Executive Summary
   The Executive Summary provides a high-level overview of the wine market.
 
   ##  KPI Cards
@@ -122,7 +128,7 @@ Budget has the highest mathematical Value Score, but its average rating is lower
 ## Business purpose
   The Executive Summary gives decision-makers a quick understanding of the overall size, pricing structure, and quality profile of the wine market.
 
-# Price vs Rating
+# 2. Price vs Rating
    This page investigates one of the most important business questions:
    Does higher price guarantee better quality?
 
@@ -154,7 +160,7 @@ Budget has the highest mathematical Value Score, but its average rating is lower
 ## Business insight
    Higher-priced wines generally receive higher ratings, but price alone does not guarantee quality. The moderate correlation of approximately 0.40 indicates that    other factors also influence wine ratings.
 
-# Regional Analysis
+# 3. Regional Analysis
    The Regional Analysis page evaluates wine performance geographically.
 
 ## Key Visuals
@@ -173,7 +179,7 @@ Budget has the highest mathematical Value Score, but its average rating is lower
 ## Business insight
    The analysis reveals significant geographic differences in wine quality. Austria performs strongly among major countries, while several specialized regions        achieve average ratings around 96 points or higher, highlighting potential premium wine-producing markets.
 
-# Variety Analysis
+# 4. Variety Analysis
   The Variety Analysis page evaluates wine performance at the top-variety level.
 
 ## Key Visuals
@@ -205,13 +211,14 @@ Viura — 5.51
 Verdejo — 5.30
 Bonarda — 5.20
 Portuguese White — 5.18
-Business insight
+
+## Business insight
 
 Among varieties with at least 100 wines, Torrontés provides the highest quality-to-price value, followed by Viura, Verdejo, Bonarda, and Portuguese White. Portuguese White and Pinot Grigio are particularly interesting because their value performance is supported by large numbers of wines.
 
 This is much stronger than simply saying "Torrontés is the best" because you are considering sample size.
 
-# Value Analysis
+# 5. Value Analysis
   The Value Analysis page focuses on identifying pricing opportunities and potential market inefficiencies.
 
 ## Key Visuals
