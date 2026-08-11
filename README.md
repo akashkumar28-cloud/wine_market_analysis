@@ -247,7 +247,7 @@ The analysis identifies:
   #  Business Impact & Insights
 
   ## Pricing Strategy
-     The Price vs Rating and Outlier Analysis can help businesses identify whether their products are appropriately priced relative to perceived quality.
+    The Price vs Rating and Outlier Analysis can help businesses identify whether their products are appropriately priced relative to perceived quality.
 
 ## Business impact:
    Helps identify potential overpricing and underpricing opportunities and supports more informed pricing decisions.
@@ -286,7 +286,7 @@ The analysis identifies:
 
 
 
- ##  Screenshots
+ ## 6. Screenshots
 
    ### Executive Overview
   ![Executive Overview](./page%201.png)
